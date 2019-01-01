@@ -3,8 +3,8 @@ package library
 import (
 	"github.com/Troy-M/automation/drivers"
 
-	"gitlab.com/SurfingNinjas/go-openzwave"
-	"gitlab.com/SurfingNinjas/go-openzwave/CC"
+	"github.com/Troy-M/go-openzwave"
+	"github.com/Troy-M/go-openzwave/CC"
 )
 
 type binarySwitch struct {

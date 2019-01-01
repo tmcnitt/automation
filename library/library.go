@@ -4,7 +4,7 @@ import (
 	"log"
 
 	"github.com/Troy-M/automation/drivers"
-	"gitlab.com/SurfingNinjas/go-openzwave"
+	"github.com/Troy-M/go-openzwave"
 )
 
 type library map[openzwave.ProductId]drivers.DeviceRegistry

@@ -3,7 +3,7 @@ package drivers
 import (
 	"encoding/json"
 	"github.com/satori/go.uuid"
-	"gitlab.com/SurfingNinjas/go-openzwave"
+	"github.com/Troy-M/go-openzwave"
 	"io/ioutil"
 	"os"
 	"strconv"
