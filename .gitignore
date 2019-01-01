@@ -1,0 +1,10 @@
+OZW_Log.txt
+zwcfg_*
+zwscene.xml
+scenes.json
+.idea
+client/node_modules
+client/node_modules/**/*
+automation
+config.json
+client/build/*
